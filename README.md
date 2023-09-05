@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=PR7xz5vQKGg
 
 https://raw.githubusercontent.com/RodrigoMvs123/Vector-Embeddings-for-Beginners---30-min-CS-Course-OpenAI/main/README.md
 
-
+https://github.com/RodrigoMvs123/Vector-Embeddings-for-Beginners---30-min-CS-Course-OpenAI/blame/main/README.md
 
 Vector Embeddings 
 Vector embedding is a popular technique to represent information in a format that can be easily processed by algorithms, especially deep learning models. This ‘information’ can be text, pictures, video and audio.
