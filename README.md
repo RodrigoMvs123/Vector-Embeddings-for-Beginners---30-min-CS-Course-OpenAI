@@ -1,0 +1,1 @@
+# Vector-Embeddings-for-Beginners---30-min-CS-Course-OpenAI
